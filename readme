@@ -1,0 +1,7 @@
+The led on the pin 3
+Send "ON 123" to turn on led or relay on pin 3, Send "OFF 123" to turn it off.
+Change 123 to your own password to prevent others from controlling the device
+
+digital pins 10 and 11 on your Arduino boards are used as virtual RX and TX serial lines, RX goes to TX of model and vis-versa
+
+I will add pictures later.
